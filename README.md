@@ -4,7 +4,7 @@
 
 > Um projeto onde estariam unidos os clássicos do terror juntamente como seu resumo para conhecê-los melhor. Feito de maneira simples e prática.
 
-<h1><a href="https://barcellos-estudio.github.io/projeto-casa-do-terror/" target= _blank>Confira o site aqui</a></h1>
+<h1><a href="https://barcellos-estudio.github.io/projeto-casa-do-terror/" target= "_blank">Confira o site aqui</a></h1>
 
 ### Ajustes e melhorias ⚙️
 
