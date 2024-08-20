@@ -17,7 +17,5 @@ O projeto ainda está em fase final de desenvolvimento e as próximas atualizaç
 ### Tecnologias utilizadas 💻
 
 - HTML
-- CSS 
-- JS 
-
-
+- CSS
+- JS
