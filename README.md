@@ -1,6 +1,6 @@
 # Casa do Terror
 
-<img src="./src/README/site.png" alt="Exemplo imagem">
+<img src="./site.png" alt="Imagem inicial do site">
 
 > Um projeto onde estariam unidos os clássicos do terror juntamente como seu resumo para conhecê-los melhor. Feito de maneira simples e prática.
 
@@ -12,7 +12,7 @@ O projeto ainda está em fase final de desenvolvimento e as próximas atualizaç
 
 - [] Responsividade mobilie
 
-[<img src="./src/README/CasaDoTerror.gif" alt="site em funcionamento">]
+[<img src="./CasaDoTerror.gif" alt="site em funcionamento">]
 
 ### Tecnologias utilizadas 💻
 
