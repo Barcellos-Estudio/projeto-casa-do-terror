@@ -10,7 +10,7 @@
 
 O projeto ainda está em fase final de desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
-- [] Responsividade mobilie
+- [ ] Responsividade mobilie
 
 [<img src="./CasaDoTerror.gif" alt="site em funcionamento">]
 
